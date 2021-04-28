@@ -1,6 +1,6 @@
 👋 Hi, I’m <strong>@alessandrotr</strong>
 - 👀 I’m a Frontend Addicted!
-- 🌱 I’m currently learning Angular.js, Node.js and Gatsby.js
+- 🌱 I’m currently learning Three.js, Node.js and Gatsby.js
 - 💞️ I’m open to work and discussing any professional opportunities.
 
 <!---
